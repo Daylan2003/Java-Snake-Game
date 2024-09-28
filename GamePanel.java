@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.awt.event.*;
-//import java.lang.foreign.MemorySegment;
 import javax.swing.*;
 import java.util.Random;
 
